@@ -1,0 +1,7 @@
+Config/
+files/
+node_modules/
+static/
+package.json
+yarn.lock
+yarn-error.log
